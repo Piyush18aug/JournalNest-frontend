@@ -27,7 +27,7 @@
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/harsh-goyal-004/JournalNest-Frontend.git
+https://github.com/Piyush18aug/JournalNest-frontend.git
 ```
 
 2. **Navigate to the project**
@@ -52,7 +52,6 @@ npm run dev
 
 ##  Author
 
-**Harsh Goyal**  
-📧 [harshgoyal2893@gmail.com](mailto:harshgoyal2893@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/harshgoyal-dev)  
-🐙 [GitHub](https://github.com/harsh-goyal-004)
+**Piyush Navangul**  
+📧 [piyushnavangul12@gmail.com](mailto:piyushnavangul12@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/piyush-navangul-4aba1127b/)  
